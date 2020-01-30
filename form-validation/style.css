@@ -25,6 +25,8 @@ body {
   border-radius: 20px 0px 20px 0;
   box-shadow:0 2px 10px rgba(223, 13, 13, 0.3) ;
   width: 400px;
+
+  
 }
 
 h2{
@@ -97,4 +99,6 @@ h2{
   margin-top: 20px;
   width:100%;
 }
+
+
 
